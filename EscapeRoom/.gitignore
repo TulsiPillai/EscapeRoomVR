@@ -1,0 +1,21 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+ .DS_Store
+ Library/AssetImportState
+ Library/AssetServerCacheV3
+ Library/FailedAssetImports.txt
+ Library/ScriptAssemblies
+ Library/ScriptMapper
+ Library/assetDatabase3
+ Library/cache
+ Library/expandedItems
+ Library/metadata
+ Library/previews
+ Library/guidmapper
+ Temp
+ *.csproj
+ *.pidb
+ *.sln
+ build
+ *.goutputstream*
+ *.userprefs

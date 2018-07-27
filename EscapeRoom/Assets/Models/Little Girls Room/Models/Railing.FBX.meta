@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 1be17fdf5db29304092ca05afbba870f
+timeCreated: 1448617771
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box2131636680
+    100002: Box2131636681
+    100004: Box2131636682
+    100006: Box2131636683
+    100008: Box2131636684
+    100010: Box2131636685
+    100012: Box2131636689
+    100014: Box2131636690
+    100016: Box2131636691
+    100018: Box2131636692
+    100020: Box2131636693
+    100022: Box2131636694
+    100024: Box2131636695
+    100026: Box2131636696
+    100028: Box2131636697
+    100030: Box2131636698
+    100032: Box2131636699
+    100034: Box2131636700
+    100036: Line1789527994
+    100038: Line1789527995
+    100040: Line1789527996
+    100042: Line1789527997
+    100044: Line1789527998
+    100046: Line1789527999
+    100048: Line1789528003
+    100050: Line1789528004
+    100052: Line1789528005
+    100054: Line1789528006
+    100056: Line1789528007
+    100058: Line1789528008
+    100060: Line1789528009
+    100062: Line1789528010
+    100064: Line1789528011
+    100066: Line1789528012
+    100068: Line1789528013
+    100070: Particle View 01
+    100072: //RootNode
+    100074: Railing
+    100076: Rectangle137
+    400000: Box2131636680
+    400002: Box2131636681
+    400004: Box2131636682
+    400006: Box2131636683
+    400008: Box2131636684
+    400010: Box2131636685
+    400012: Box2131636689
+    400014: Box2131636690
+    400016: Box2131636691
+    400018: Box2131636692
+    400020: Box2131636693
+    400022: Box2131636694
+    400024: Box2131636695
+    400026: Box2131636696
+    400028: Box2131636697
+    400030: Box2131636698
+    400032: Box2131636699
+    400034: Box2131636700
+    400036: Line1789527994
+    400038: Line1789527995
+    400040: Line1789527996
+    400042: Line1789527997
+    400044: Line1789527998
+    400046: Line1789527999
+    400048: Line1789528003
+    400050: Line1789528004
+    400052: Line1789528005
+    400054: Line1789528006
+    400056: Line1789528007
+    400058: Line1789528008
+    400060: Line1789528009
+    400062: Line1789528010
+    400064: Line1789528011
+    400066: Line1789528012
+    400068: Line1789528013
+    400070: Particle View 01
+    400072: //RootNode
+    400074: Railing
+    400076: Rectangle137
+    2300000: Railing
+    2300002: //RootNode
+    3300000: Railing
+    3300002: //RootNode
+    4300000: Railing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
